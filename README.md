@@ -8,5 +8,5 @@ I'd like to gather experiences i comercial web applications, gather code that i 
 
 Plus I want to get new knowledge that I did not optain yet.
 
-regars
+regards
 PowerPHP
